@@ -1,3 +1,5 @@
+# Hi m1
+
 source 'http://rubygems.org'
 
 gem 'rails', '3.0.9'
