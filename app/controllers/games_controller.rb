@@ -4,6 +4,10 @@ class GamesController < ApplicationController
   def index
     @games = Game.all
 
+    Class1.hi
+
+    i = AAA
+
     respond_to do |format|
       format.html # index.html.erb
       format.xml  { render :xml => @games }
