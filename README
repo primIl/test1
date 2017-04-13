@@ -6,7 +6,7 @@ database-backed web applications according to the Model-View-Control pattern.
 L3 L4 L5 L7 
 
 This pattern splits the view (also called the presentation) into "dumb"
-4 5 6 7 8 9
+4 5 6 7 8 9 10
 templates that are primarily responsible for inserting pre-built data in between
 HTML tags. The model contains the "smart" domain objects (such as Account,
 Product, Person, Post) that holds all the business logic and knows how to
